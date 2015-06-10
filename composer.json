@@ -7,5 +7,10 @@
             "email": "aydin@wearejh.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "map": [
+            ["test", "test"],
+        ]
+    }
 }
