@@ -1,5 +1,5 @@
 {
-    "name": "aydin-hassan/composer-source-ref-test",
+    "name": "aydin-hassan/composer-dev-master-test",
     "type": "magento-module",
     "authors": [
         {
@@ -10,10 +10,7 @@
     "require": {},
     "extra": {
         "map": [
-            ["test", "test"]
+            ["test", "test1"]
         ],
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
