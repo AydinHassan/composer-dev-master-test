@@ -1,0 +1,11 @@
+{
+    "name": "aydin-hassan/composer-source-ref-test",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Aydin",
+            "email": "aydin@wearejh.com"
+        }
+    ],
+    "require": {}
+}
