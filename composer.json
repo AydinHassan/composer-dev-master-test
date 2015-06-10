@@ -10,7 +10,7 @@
     "require": {},
     "extra": {
         "map": [
-            ["test", "test"],
+            ["test", "test"]
         ]
     }
 }
